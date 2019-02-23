@@ -9,3 +9,5 @@ Provisioning a
         "Centos-7.5" 
 
 Virtual Machines using ARM Template
+
+New Virtual Network,Virtual Subnet,Network Security Group will be created
